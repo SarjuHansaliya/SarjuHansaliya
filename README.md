@@ -1,7 +1,7 @@
 <h3 align="center">Hi there! I'm Sarju Hansaliya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
 - 👨‍💻 I am full stack developer. I have built many client facing apps. I am always keen to learn new things. 
-- 🧰 I love building cross platfor applications that covers webapp, mobile app, desktop apps. 
+- 🧰 I love building cross platform applications that covers webapp, mobile app, desktop apps. 
 - 📜 I have been working on React, React Native, Node.JS since 2017. 
 - 😄 I have wore many hats like I have experience of leading and mentoring team. 
 - 🗺️ In my free time, I love to do swimming, travelling and binge watching. 
