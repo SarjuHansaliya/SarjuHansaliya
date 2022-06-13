@@ -58,9 +58,5 @@
 
 ![Webpack](https://img.shields.io/badge/webpack-272b33?logo=webpack&logoColor=8DD6F9&style=for-the-badge)
 ![Rollup](https://img.shields.io/badge/rollup-272b33?logo=rollup.js&logoColor=EC4A3F&style=for-the-badge)
-![Git](https://img.shields.io/badge/git-272b33?logo=git&style=for-the-badge)
-![NPM](https://img.shields.io/badge/npm-272b33?logo=npm&style=for-the-badge)
-![VisualStudioCode](https://img.shields.io/badge/vscode-272b33?logo=visualstudiocode&logoColor=007ACC&style=for-the-badge)
-![Postman](https://img.shields.io/badge/postman-272b33?logo=postman&style=for-the-badge)
 ![Netlify](https://img.shields.io/badge/Netlify-272b33?logo=netlify&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-272b33?logo=docker&logoColor=2496ED&style=for-the-badge)
