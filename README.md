@@ -19,12 +19,6 @@
   <img src="https://img.shields.io/badge/EMail-272b33?logo=Mailgun&logoColor=F06B66&style=for-the-badge" />
 </a>
 
-## 🔥 Streak stats
-<p align="center">
-  <img alt="Sarju's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sarjuhansaliya&theme=monokai-metallian&hide_border=true" />
-</p>
-
-
 ## 💻 Technology
 
 ### Core
